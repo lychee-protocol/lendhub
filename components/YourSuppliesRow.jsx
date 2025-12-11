@@ -23,7 +23,7 @@ const YourSuppliesRow = ({
             <Image
               src={image}
               alt="coin-image"
-              className="card-img-top w-5 h-5 md:h-7 md:w-7"
+              className="card-img-top w-5 h-5 md:h-7 md:w-9"
             />
             <p className="pl-[8px] font-semibold md:text-[13px] text-[12px]">
               {name}
