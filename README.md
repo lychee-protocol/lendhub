@@ -101,7 +101,7 @@ This fully on-chain DeFi app allows users to effortlessly deposit their coins (E
 1. Clone this repo :
 
 ```
-git clone https://github.com/shubhamprajapati241/lendhub.git
+git clone https://github.com/lychee-protocol/lendhub.git
 ```
 
 2. Go to the root directory and install all node packages
@@ -153,7 +153,7 @@ Following steps show to get this project on to your machine and bring it up:
 2. Clone this repo :
 
 ```
-git clone https://github.com/shubhamprajapati241/lendhub.git
+git clone https://github.com/lychee-protocol/lendhub.git
 ```
 
 3. Go to the root directory and install dependent node packages
